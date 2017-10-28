@@ -1,6 +1,6 @@
 ## Open Source
 
-Per molti questa espressione e' semplicemente sinonimo di software gratuito.
+Per molti questa espressione è semplicemente sinonimo di software gratuito.
 
 In realtà Open Source significa "sorgente aperta", in informatica indica un tipo di software dove gli autori (più precisamente, i detentori dei diritti) rendono il codice sorgente pubblico cioè favorendone il libero studio e permettendone il riutilizzo, di apportarvi modifiche per le specifiche esigenze e di sviluppare estensioni da nuove idee di altri utenti, a condizione di rispettare e citare le paternità intellettuali dell'opera (licenze o contratti d'uso libere).
 
