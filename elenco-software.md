@@ -66,3 +66,46 @@ Si chiama / Lo trovo qui | Imparo con
 Si chiama / Lo trovo qui | Imparo con
 -------------------------|-----------
 [PDFsam Basic](http://www.pdfsam.org) | http://www.pdfsam.org/documentation/
+
+### Attività individuali tecnico-specialistiche
+
+Cerco un programma per...
+
+#### Fotoritocco e per la realizzazione, rielaborazione di immagini
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Gimp](https://www.gimp.org/) | https://docs.gimp.org/2.8/it/
+     
+#### Loghi e disegno vettoriale basato sul formato Scalable Vector Graphics (SVG)
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Inkscape](https://inkscape.org/it/download/) | https://www.istitutomajorana.it/scarica2/inkscape_guida_italiana.pdf
+     
+#### Visualizzazione ed elaborazione di dati geografici, PAT, PRG e immagini satellitari
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Qgis](http://www.qgis.org/it/site/) | http://docs.qgis.org/2.14/it/docs/user_manual/
+
+#### Visualizzare e realizzare disegni tecnici, CAD
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Qcad](http://www.ribbonsoft.com/en/qcad-downloads-trial) | http://www.qcad.org/doc/qcad/2.2/reference/it/capitolo01.html
+[LibreCad](http://librecad.org/cms/home.html) | http://wiki.librecad.org/index.php/LibreCAD_users_Manual
+
+#### Elaborare immagini e modelli tridimensionali
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Blender](https://www.blender.org/download/) | https://www.blender.it/manuali/
+
+#### Elaborare, tagliare, modificare filmati e video
+    
+Si chiama / Lo trovo qui | Imparo con
+-------------------------|-----------
+[Openshot](http://www.openshot.org/download/) | http://www.openshotusers.com/help/1.3/it/ar01s03.html
+Avidemux | 
+[VirtualDub](http://virtualdub.sourceforge.net/) | http://virtualdub.org/virtualdub_docs.html
