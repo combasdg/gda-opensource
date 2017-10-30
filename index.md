@@ -20,3 +20,13 @@ Potete vedere il video a [questo indirizzo](https://www.youtube.com/watch?v=a8fH
 Il video è in inglese, ma cliccando sull’apposita iconcina a destra potete attivare i sottotitoli in italiano, realizzati da Stefano S.
 
 Il presente "bigino" si pone l'obbiettivo di fornire alcune indicazioni/delucidazioni/suggerimenti/esperienze per chi nelle PA utilizza soluzioni informatiche con diversi livelli di conoscenza ed autonomia per poter affrontare con senso critico le scelte inerenti il rispetto delle nuove normative, orientate sempre di più alla completa digitalizzazione dei procedimenti tipici della PA ed al rispetto di quanto previsto all'articolo 68 del Codice dell'Amministrazione Digitale
+
+### Argomenti trattati
+
+Elenco software open source | Lista - non esaustiva - di programmi disponibili in ambito open source, suddivisi per attività da svolgere
+Acronimi | Le "sigle" dell'open source
+Definizioni | Alcune definizioni relative alle licenze software
+Link di riferimento | Informarsi sull'open source
+Regole da seguire | Alcune esperienze significative di utilizzo di software open source, o di conversione da sistemi proprietari
+Azioni da evitare | Cosa non fare o non aspettarsi in una conversione verso l'open source
+Normativa | Le normative italiane sull'open source
