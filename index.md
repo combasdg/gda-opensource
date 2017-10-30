@@ -23,7 +23,7 @@ Il presente "bigino" si pone l'obbiettivo di fornire alcune indicazioni/delucida
 
 ### Argomenti trattati
 
-Elenco software open source | Lista - non esaustiva - di programmi disponibili in ambito open source, suddivisi per attività da svolgere
+[Elenco software open source](elenco-software.md) | Lista - non esaustiva - di programmi disponibili in ambito open source, suddivisi per attività da svolgere
 Acronimi | Le "sigle" dell'open source
 Definizioni | Alcune definizioni relative alle licenze software
 Link di riferimento | Informarsi sull'open source
